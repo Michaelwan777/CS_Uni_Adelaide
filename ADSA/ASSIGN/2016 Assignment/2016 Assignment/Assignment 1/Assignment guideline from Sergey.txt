@@ -1,0 +1,12 @@
+
+This message is just to further guide you with respect to our ADSA course.
+
+First, I have just found out that a nice list of math symbols we are using is given in our main book of Melhorn&Sanders, page 263. I have no idea why I did not think about this in the beginning. However, now you have many sources of information about this issue.
+
+Second, please read the book of Melhorn&Sanders, pages 1-4 and 19-23 to cover the lectures we had this week. The book of Cormen should also help, Chapter 3.1 for asymptotic notation. Then I think you will know more than me, which is nice.
+
+Third, I strongly recommend you to read about the basic probability theory. There is very compact information about it in the appendix of any of the books I recommended. It’s just a couple of pages to read to lift your spirits. We will need this in a couple of weeks.
+
+Fourth, it is assumed by the course that you know what the proof by induction is. But you might not, right? So, the chapter 4.4.3 Induction and Loop Invariants in the book of Data Structures and Algorithms in Java should help with the assignment 1. It has very similar examples. So very nice book, which I also found available somewhere in the net ;). You got that I think.
+
+Have nice weekends and see you soon,
