@@ -1,0 +1,55 @@
+<tokens>
+        <address>0</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>23</address>
+        <dest-comp?>D</dest-comp?>
+        <semi>;</semi>
+        <jump>JLE</jump>
+        <address>16</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+        <address>16384</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>A</dest-comp?>
+        <address>17</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+        <address>17</address>
+        <dest-comp?>A</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <comp>-1</comp>
+        <address>17</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>32</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <comp>D+A</comp>
+        <address>17</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+        <address>16</address>
+        <dest>MD</dest>
+        <equals>=</equals>
+        <comp>M-1</comp>
+        <address>10</address>
+        <dest-comp?>D</dest-comp?>
+        <semi>;</semi>
+        <jump>JGT</jump>
+        <address>23</address>
+        <comp>0</comp>
+        <semi>;</semi>
+        <jump>JMP</jump>
+</tokens>
+Number of tokens read:
+0000000000110011

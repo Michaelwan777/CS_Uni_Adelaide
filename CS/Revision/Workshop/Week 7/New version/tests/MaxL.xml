@@ -1,0 +1,36 @@
+<tokens>
+        <address>0</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>1</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <comp>D-M</comp>
+        <address>10</address>
+        <dest-comp?>D</dest-comp?>
+        <semi>;</semi>
+        <jump>JGT</jump>
+        <address>1</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>12</address>
+        <comp>0</comp>
+        <semi>;</semi>
+        <jump>JMP</jump>
+        <address>0</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>2</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+        <address>14</address>
+        <comp>0</comp>
+        <semi>;</semi>
+        <jump>JMP</jump>
+</tokens>
+Number of tokens read:
+0000000000100000

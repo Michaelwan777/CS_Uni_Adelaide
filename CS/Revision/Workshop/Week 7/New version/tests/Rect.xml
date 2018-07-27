@@ -1,0 +1,57 @@
+<tokens>
+        <address>0</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>INFINITE_LOOP</address>
+        <dest-comp?>D</dest-comp?>
+        <semi>;</semi>
+        <jump>JLE</jump>
+        <address>counter</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+        <address>SCREEN</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>A</dest-comp?>
+        <address>address</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+        <label>LOOP</label>
+        <address>address</address>
+        <dest-comp?>A</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <comp>-1</comp>
+        <address>address</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>32</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <comp>D+A</comp>
+        <address>address</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+        <address>counter</address>
+        <dest>MD</dest>
+        <equals>=</equals>
+        <comp>M-1</comp>
+        <address>LOOP</address>
+        <dest-comp?>D</dest-comp?>
+        <semi>;</semi>
+        <jump>JGT</jump>
+        <label>INFINITE_LOOP</label>
+        <address>INFINITE_LOOP</address>
+        <comp>0</comp>
+        <semi>;</semi>
+        <jump>JMP</jump>
+</tokens>
+Number of tokens read:
+0000000000110101

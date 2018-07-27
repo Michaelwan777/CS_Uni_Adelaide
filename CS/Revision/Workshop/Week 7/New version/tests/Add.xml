@@ -1,0 +1,16 @@
+<tokens>
+        <address>2</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>A</dest-comp?>
+        <address>3</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <comp>D+A</comp>
+        <address>0</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+</tokens>
+Number of tokens read:
+0000000000001100

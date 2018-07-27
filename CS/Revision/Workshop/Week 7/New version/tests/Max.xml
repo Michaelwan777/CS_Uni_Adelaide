@@ -1,0 +1,39 @@
+<tokens>
+        <address>R0</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>R1</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <comp>D-M</comp>
+        <address>OUTPUT_FIRST</address>
+        <dest-comp?>D</dest-comp?>
+        <semi>;</semi>
+        <jump>JGT</jump>
+        <address>R1</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <address>OUTPUT_D</address>
+        <comp>0</comp>
+        <semi>;</semi>
+        <jump>JMP</jump>
+        <label>OUTPUT_FIRST</label>
+        <address>R0</address>
+        <dest-comp?>D</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>M</dest-comp?>
+        <label>OUTPUT_D</label>
+        <address>R2</address>
+        <dest-comp?>M</dest-comp?>
+        <equals>=</equals>
+        <dest-comp?>D</dest-comp?>
+        <label>INFINITE_LOOP</label>
+        <address>INFINITE_LOOP</address>
+        <comp>0</comp>
+        <semi>;</semi>
+        <jump>JMP</jump>
+</tokens>
+Number of tokens read:
+0000000000100011
